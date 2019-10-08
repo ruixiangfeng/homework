@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+analyzeArray	func1.c	/^struct arg analyzeArray(int *arr,int len){$/;"	f	language:C	signature:(int *arr,int len)
+arg	main.h	/^struct arg{$/;"	s	language:C++
+ave	func1.c	/^int ave(int *arr,int len){$/;"	f	language:C	signature:(int *arr,int len)
+ave	main.h	/^	int ave;$/;"	m	language:C++	struct:arg
+bool	main.h	8;"	d	language:C++
+bubbleSort	func3.c	/^void bubbleSort(int arr[],int len){$/;"	f	language:C	signature:(int arr[],int len)
+compar	func3.c	/^int compar(const void *a,const void *b){$/;"	f	language:C	signature:(const void *a,const void *b)
+createRandomArray	func2.c	/^void createRandomArray(int *p,int len){$/;"	f	language:C	signature:(int *p,int len)
+false	main.h	10;"	d	language:C++
+main	main.c	/^int main(){$/;"	f	language:C
+max	func1.c	/^int max(int *arr,int len){$/;"	f	language:C	signature:(int *arr,int len)
+max	main.h	/^	int max;$/;"	m	language:C++	struct:arg
+min	func1.c	/^int min(int *arr,int len){$/;"	f	language:C	signature:(int *arr,int len)
+min	main.h	/^	int min;$/;"	m	language:C++	struct:arg
+objects	makefile	/^objects = main.o func1.o func2.o func3.o$/;"	m	language:Make
+quickSort	func3.c	/^void quickSort(int* arr,int len,int size){$/;"	f	language:C	signature:(int* arr,int len,int size)
+readArray	func1.c	/^void readArray(int *arr,int len,char *fileName){$/;"	f	language:C	signature:(int *arr,int len,char *fileName)
+show	func1.c	/^void show(int *arr,int len){$/;"	f	language:C	signature:(int *arr,int len)
+sum	func1.c	/^int sum(int *arr,int len){$/;"	f	language:C	signature:(int *arr,int len)
+sum	main.h	/^	int sum;$/;"	m	language:C++	struct:arg
+swap	func3.c	/^void swap(int *a,int *b){$/;"	f	language:C	signature:(int *a,int *b)
+true	main.h	9;"	d	language:C++
+writeArray	func1.c	/^void writeArray(int *arr,int len,char *fileName){$/;"	f	language:C	signature:(int *arr,int len,char *fileName)
